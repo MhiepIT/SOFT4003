@@ -4,9 +4,9 @@ Bài tập Kiểm thử phần mềm
 
 ## Tuần 1: 5/1/2026 - 11/1/2026 :
 
-- 5/1/2026 Hoàn thành Bài tập thực hành tuần 1 : Cantunsee ; Điểm số : 8130 ; Ảnh minh chứng : 5_1_2026_Cantunsee.png
+- Hoàn thành Bài tập thực hành 1 : Cantunsee ; Điểm số : 8130 ; Ảnh minh chứng : 5_1_2026_Cantunsee.png
 
-- 7/1/2026 :Student Analyzer - Unit Test with JUnit
+- Hoàn thành Bài tập thực hành 2 : Student Analyzer - Unit Test with JUnit
 
   - Mô tả
 
@@ -23,8 +23,8 @@ Bài tập Kiểm thử phần mềm
     - Maven
     - JUnit 5
 
-  - Cấu trúc thư mục
-    unit-test/
-    ├── src/main/java/analyzer
-    ├── src/test/java/analyzer
-    └── pom.xml
+  - Cấu trúc thư mục:
+       + unit-test/
+       + ├── src/main/java/analyzer
+       + ├── src/test/java/analyzer
+       + └── pom.xml
